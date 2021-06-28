@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TestGitHubPython", "TestGitHubPython\TestGitHubPython.pyproj", "{E5CB193E-6219-457F-BC40-D2D80D306A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CB193E-6219-457F-BC40-D2D80D306A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CB193E-6219-457F-BC40-D2D80D306A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37128918-2984-43B7-A5D9-55BBA40A0E75}
+	EndGlobalSection
+EndGlobal
